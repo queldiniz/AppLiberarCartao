@@ -1,12 +1,14 @@
 # AutomacaoLiberarCartao
 
-
 ## Disparo de Email
-### Como notifica
-<img>
+<hr>
 <br>
 
-### Corpo do Email
-<img>
+## Como notifica
+<img src="#como-notifica">
+<br>
+
+## Corpo do Email
+<img src="#corpo-do-email">
 
 
